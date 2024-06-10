@@ -1,0 +1,1 @@
+Stripe.api_key = "sk_test_your_secret_here"
